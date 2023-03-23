@@ -2,14 +2,15 @@
 
 ## 国内使用 chatgpt 方法
 访问以下镜像站：
-https://theb.ai/
-http://newb.site/
-https://qachat.cn/
-https://freegpt.one/
-https://chat2.xeasy.me/
-https://dev.yqcloud.top/
-https://chat.forchange.cn/
-https://chater.lanyun1103.top/
+
+-https://theb.ai/
+-http://newb.site/
+-https://qachat.cn/
+-https://freegpt.one/
+-https://chat2.xeasy.me/
+-https://dev.yqcloud.top/
+-https://chat.forchange.cn/
+-https://chater.lanyun1103.top/
 
 ## ChatGPT Github 中文精选资源：
 
