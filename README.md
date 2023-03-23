@@ -1,5 +1,16 @@
 # AwesomeChatGPT
 
+## 国内使用 chatgpt 方法
+访问以下镜像站：
+https://theb.ai/
+http://newb.site/
+https://qachat.cn/
+https://freegpt.one/
+https://chat2.xeasy.me/
+https://dev.yqcloud.top/
+https://chat.forchange.cn/
+https://chater.lanyun1103.top/
+
 ## ChatGPT Github 中文精选资源：
 
 1. [ChatGPT-Chinese-Demo](https://github.com/DevilExileSu/ChatGPT-Chinese-Demo)：一个基于 Flask 的 Demo，可以在网页上进行中文对话测试。
